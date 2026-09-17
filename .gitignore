@@ -1,0 +1,16 @@
+# Olist dataset
+*.csv
+
+# PostgreSQL / Docker
+postgres-data/
+pgdata/
+
+# Environment / secrets
+.env
+*.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
